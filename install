@@ -2,7 +2,5 @@
 #!/bin/sh
 
 rm -rf UMOnlineConfig*.zip
-rm -rf UMOnlineConfig
 curl -O http://osr81xpwt.bkt.clouddn.com/iOS/UMOnlineConfig1.0.0.zip
-mkdir UMOnlineConfig
-unzip UMOnlineConfig1.0.0.zip ./UMOnlineConfig
+unzip UMOnlineConfig1.0.0.zip
